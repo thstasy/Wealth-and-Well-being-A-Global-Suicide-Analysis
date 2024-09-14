@@ -45,4 +45,4 @@ Finally, the **happiness score** indicates a strong correlation between societal
 ---
 
 ### Data Sources:
-- This analysis is based on global data related to **GDP per capita**, **suicide rates**, **life expectancy** for men and women, and **happiness scores**, drawn from publicly available databases.
+- This analysis is based on global data related to **GDP per capita**, **suicide rates**, **life expectancy** for men and women, and **happiness scores**, drawn from publicly available databases---OECD, IHME, and World Bank database. 
