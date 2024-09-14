@@ -10,7 +10,7 @@ Suicide rates reflect the complex and interwoven relationship between a countryâ
 ---
 
 ## 1. GDP per Capita vs Suicide Rate: How Does Wealth Impact Suicide Rates?
-![GDP per Capita vs Suicide Rate](sandbox:/mnt/data/GDPperCapitavsSuicideRate_markdown.png?_chatgptios_conversationID=66e535fc-0ce4-8009-bf1e-136be172b498&_chatgptios_messageID=6f57dfc1-f2f9-4422-a085-a5ab42c1bc84)
+![GDP per Capita vs Suicide Rate](GDPperCapitavsSuicideRate.png)
 
 ### The Story Behind the Data:
 - **Wealth as a Protective Factor (but Not Always)**: As seen in countries like Luxembourg and Norway, high GDP per capita correlates with lower suicide rates, suggesting that wealth and access to better social and healthcare services may offer some protection against mental health crises. However, **wealth alone doesnâ€™t always prevent high suicide rates**. Armenia, for example, experiences a much higher suicide rate despite a lower GDP, indicating that other cultural or social factors are at play.
@@ -20,7 +20,7 @@ Suicide rates reflect the complex and interwoven relationship between a countryâ
 ---
 
 ## 2. Top 20 Suicide Rate Countries: The Gender Gap in Life Expectancy
-![Top 20 Suicide Rate Countries: Life Expectancy Gap](sandbox:/mnt/data/Top20SuicideRateCountries&LifeExpectancyGap_markdown.png?_chatgptios_conversationID=66e535fc-0ce4-8009-bf1e-136be172b498&_chatgptios_messageID=6f57dfc1-f2f9-4422-a085-a5ab42c1bc84)
+![Top 20 Suicide Rate Countries: Life Expectancy Gap](Top20SuicideRateCountries&LifeExpectancyGap.png)
 
 ### The Story Behind the Data:
 - **Life Expectancy Gap and Gender-Specific Pressures**: In the top 20 countries with the highest suicide rates, we see a consistent gap between life expectancy for women and men. Countries like Lithuania and Estonia show the widest gaps, with men living significantly shorter lives. These countries also have some of the highest suicide rates, suggesting that **men in these regions face unique societal pressures and health challenges**â€”whether through riskier lifestyles, lack of mental health support, or cultural expectations placed on men.
